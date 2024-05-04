@@ -25,9 +25,12 @@ print(str(size(pizzaqueue)) + ' pizza''s in de wachrij')
 #Opdracht herschrijf onderstaande lijnen in een while loop
 currentpizza = dequeue(pizzaqueue)
 print(currentpizza + ' aan het klaarmaken')
+sleep 2
 
 currentpizza = dequeue(pizzaqueue)
 print(currentpizza + ' aan het klaarmaken')
+sleep 2
 
 currentpizza = dequeue(pizzaqueue)
 print(currentpizza + ' aan het klaarmaken')
+sleep 2
